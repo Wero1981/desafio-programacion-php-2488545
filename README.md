@@ -1,8 +1,8 @@
 # Desafío de programación: PHP
 Este es el repositorio del curso de LinkedIn Learning `Desafío de programación: PHP`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
-
+![image](https://github.com/LinkedInLearning/desafio-programacion-php-2488545/assets/71371373/64c48507-83f9-40c5-b4cb-db325d2caf95)
+ 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 Perfecciona tus habilidades y amplia tus conocimientos en este lenguaje de programación a través de desafiantes proyectos y actividades prácticas. Durante el contenido desarrollarás tu capacidad para resolver problemas complejos y para pensar de manera innovadora mientras trabajas con PHP. El curso también cubrirá temas avanzados como la optimización de rendimiento, seguridad y la integración con tecnologías adicionales. Al finalizar habrás adquirido una sólida comprensión de PHP y tendrás las capacidades para crear aplicaciones PHP de alta eficiencia y confiabilidad.
@@ -23,7 +23,7 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/gabriela-garcia).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/desafio-de-programacion-php/desafiate-con-estos-ejercicios-de-php
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 
