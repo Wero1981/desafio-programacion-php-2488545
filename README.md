@@ -1,7 +1,7 @@
 # Desafío de programación: PHP
 Este es el repositorio del curso de LinkedIn Learning `Desafío de programación: PHP`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://github.com/LinkedInLearning/desafio-programacion-php-2488545/assets/71371373/64c48507-83f9-40c5-b4cb-db325d2caf95)
+![image](https://media.licdn.com/dms/image/D560DAQGN4QJr75q_3Q/learning-public-crop_675_1200/0/1687498649344?e=2147483647&v=beta&t=f18DnMQM9kxjwKK8m72F6kek7BPFBW2B92OdlKG7odo)
  
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
